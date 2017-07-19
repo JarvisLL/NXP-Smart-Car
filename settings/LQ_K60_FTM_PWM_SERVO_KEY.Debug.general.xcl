@@ -1,0 +1,17 @@
+"E:\K60software\arm\bin\armproc.dll" 
+
+"E:\K60software\arm\bin\armjlink2.dll" 
+
+"E:\K60sor\最终成型方案  7.11号  传感器阀值可调控  完全丢线停车\Debug\Exe\c.out" 
+
+--plugin "E:\K60software\arm\bin\armbat.dll" 
+
+--device_macro "E:\K60software\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "E:\K60software\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "E:\K60software\arm\config\flashloader\NXP\FlashK60Dxxx128K.board" 
+
+
+
+
